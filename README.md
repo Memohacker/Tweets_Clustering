@@ -25,6 +25,5 @@ We made a machine learning module to cluster every tweet to the nearest topic of
 ## Running K-Means 
 <img src="https://user-images.githubusercontent.com/90388102/192450549-a5861a43-847d-4bc7-a0d5-b956a06949f4.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/90388102/192452101-d841426f-2b4f-4ee2-9c10-055a0b1f8a47.png" width="400"/>
-<img src="https://user-images.githubusercontent.com/90388102/192452196-4f679c61-4f2e-4947-b7b8-c8177493698.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/90388102/192452332-8af4b43d-daac-4292-8457-54b99997424f.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/90388102/192452457-0e74c818-4858-4f7b-bd85-ac95e43ac002.png" width="400"/>
