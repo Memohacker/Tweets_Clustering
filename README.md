@@ -23,7 +23,7 @@ We made a machine learning module to cluster every tweet to the nearest topic of
 ## Starting the System
 ![user experiment](https://user-images.githubusercontent.com/90388102/192447144-f4970725-f0e8-445d-812d-477aae1cd963.png)
 ## Running K-Means 
-<img src="https://user-images.githubusercontent.com/90388102/192450549-a5861a43-847d-4bc7-a0d5-b956a06949f4.png" width="400" "height=100" />
+<img src="https://user-images.githubusercontent.com/90388102/192450549-a5861a43-847d-4bc7-a0d5-b956a06949f4.png" width="400" />
 
 <img src="https://user-images.githubusercontent.com/90388102/192452101-d841426f-2b4f-4ee2-9c10-055a0b1f8a47.png" width="400" />
 
