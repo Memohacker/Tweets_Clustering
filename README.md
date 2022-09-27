@@ -21,4 +21,4 @@ We made a machine learning module to cluster every tweet to the nearest topic of
 
 # ScreenShots
 ## Welcome Screen for starting the System
-![user experiment](https://user-images.githubusercontent.com/90388102/192446530-7b75cf7c-a3c9-4ebd-92c4-bdc3f2166c95.png)
+![user experiment](https://user-images.githubusercontent.com/90388102/192447144-f4970725-f0e8-445d-812d-477aae1cd963.png)
