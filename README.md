@@ -23,9 +23,9 @@ We made a machine learning module to cluster every tweet to the nearest topic of
 ## Starting the System
 ![user experiment](https://user-images.githubusercontent.com/90388102/192447144-f4970725-f0e8-445d-812d-477aae1cd963.png)
 ## Running K-Means 
-![First](https://user-images.githubusercontent.com/90388102/192448626-71b1b52d-1229-40a3-8878-43d947ffdcec.png)
-![Second](https://user-images.githubusercontent.com/90388102/192449842-b8246dc9-3e37-46bb-8c0e-202f8c91b687.png)
-![Third](https://user-images.githubusercontent.com/90388102/192449871-91bc1c1c-a5d8-44a3-bebd-a1bd365bb088.png)
-![Forth](https://user-images.githubusercontent.com/90388102/192449903-3db184be-3f5e-4d6f-b3ca-23f33c6db655.png)
-![Fifth](https://user-images.githubusercontent.com/90388102/192449927-65e55391-4ba5-40a3-83bc-d99cb16f30f8.png)
+<img src="https://user-images.githubusercontent.com/90388102/192450549-a5861a43-847d-4bc7-a0d5-b956a06949f4.png" width="200" />
+<img src="https://user-images.githubusercontent.com/90388102/192450549-a5861a43-847d-4bc7-a0d5-b956a06949f4.png" width="200" />
+<img src="https://user-images.githubusercontent.com/90388102/192450549-a5861a43-847d-4bc7-a0d5-b956a06949f4.png" width="200" />
+<img src="https://user-images.githubusercontent.com/90388102/192450549-a5861a43-847d-4bc7-a0d5-b956a06949f4.png" width="200" />
+<img src="https://user-images.githubusercontent.com/90388102/192450549-a5861a43-847d-4bc7-a0d5-b956a06949f4.png" width="200" />
 
