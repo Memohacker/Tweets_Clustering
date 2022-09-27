@@ -20,3 +20,6 @@ We made a machine learning module to cluster every tweet to the nearest topic of
 • "k_means" function: we pass to it two parameters "tweets" this parameter contains a list of tweets after we cleaned the file, "k" the initial value of the X-axis in the graph, and "max iterations" the default value of it "20". first, we choose random k points for centroids, then  Run the iterations until not converged or until the max iteration is not reached. at the end we compute the sum squared error.
 
 # ScreenShots
+## Welcome Screen for starting the System
+
+![user experiment](https://user-images.githubusercontent.com/90388102/192446530-7b75cf7c-a3c9-4ebd-92c4-bdc3f2166c95.png)
