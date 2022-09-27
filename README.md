@@ -6,4 +6,5 @@ We made a machine learning module to cluster every tweet to the nearest topic of
 
 ## Tools and technologies: Python and Spyder IDE
 
-Full Description: 
+## Full Description: 
+First "DataCleaning" function we pass to it two parameters, "URL": the type of file format and "encoding": the type of format you want, then we clean the file by removing all special characters and punctuation marks by using built-in functions.
