@@ -13,5 +13,5 @@ We made a machine learning module to cluster every tweet to the nearest topic of
 
 • "assign_cluster" function: we pass to it two parameters, "tweets" and "centroids". after using the "jaccard_distance" function we should put the tweet to the nearest cluster of it depending on the value that we have taken from the "jaccard_distance" function.
 
-
+• "new_centroids" function: we pass to it one parameter, "clusters", then we loop on each cluster to choose from every cluster the best tweet to make it the centroid of this cluster using the "jaccard_distance" function.
 
