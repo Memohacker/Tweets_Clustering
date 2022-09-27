@@ -7,4 +7,6 @@ We made a machine learning module to cluster every tweet to the nearest topic of
 ## Full Description: 
 • "DataCleaning" function: we pass to it two parameters, "URL": the type of file format and "encoding": the type of format you want, then we clean the file by removing all special characters and punctuation marks by using built-in functions.
 
-• "is_converged" function: we pass to it two parameters, "prev_centroid" and "new_centroids" to compare the length of them and know if there is a difference or not and this comparison has been made by using "jaccard_distance" function. 
+• "is_converged" function: we pass to it two parameters, "prev_centroid" and "new_centroids" to compare every word of them and know if there is a difference or not and this comparison has been made by using the "jaccard_distance" function. 
+
+• "jaccard_distance" function: we pass to it two parameters, "tweet1" and "tweet2" to compare every word of them by using some built-in functions like "intersection" and "set", then we use the value of intersection in the formula of distance to know the value of the difference. 
